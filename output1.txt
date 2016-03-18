@@ -1,0 +1,2 @@
+DEBUG - Here is some DEBUG
+ERROR - Here is some ERROR
